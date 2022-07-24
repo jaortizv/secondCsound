@@ -1,0 +1,2 @@
+# secondCsound
+Using beep() function
